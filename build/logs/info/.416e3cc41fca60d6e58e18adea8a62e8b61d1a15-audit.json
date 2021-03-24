@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/sam/Documents/typeScriptNodeJS/test-api/build/logs/info/.416e3cc41fca60d6e58e18adea8a62e8b61d1a15-audit.json",
+    "files": [
+        {
+            "date": 1616548891054,
+            "name": "/Users/sam/Documents/typeScriptNodeJS/test-api/build/logs/info/2021-03-23.log",
+            "hash": "d671acfbd2639c8ea0b48c43e55d3628"
+        }
+    ]
+}

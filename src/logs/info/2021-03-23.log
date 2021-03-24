@@ -1,0 +1,17 @@
+2021-03-23 21:22:44 info: 🚀 App listening on the port 3000
+2021-03-23 21:22:50 info: [0mGET / [36m304[0m 5.143 ms - -[0m
+2021-03-23 21:22:54 info: [0mGET / [36m304[0m 0.887 ms - -[0m
+2021-03-23 21:22:57 info: [0mGET /api-docs [36m301[0m 3.072 ms - 183[0m
+2021-03-23 21:22:57 info: [0mGET /api-docs/ [32m200[0m 4.029 ms - -[0m
+2021-03-23 21:23:20 info: [0mGET /api-docs/ [32m200[0m 1.906 ms - -[0m
+2021-03-23 21:23:21 info: [0mGET /api-docs [36m301[0m 0.821 ms - 183[0m
+2021-03-23 21:23:21 info: [0mGET /api-docs/ [32m200[0m 1.531 ms - -[0m
+2021-03-23 21:28:52 info: 🚀 App listening on the port 3000
+2021-03-23 21:29:02 info: [0mGET /api-docs [36m301[0m 7.746 ms - 183[0m
+2021-03-23 21:29:02 info: [0mGET /api-docs/ [32m200[0m 6.372 ms - -[0m
+2021-03-23 21:29:02 info: [0mGET /api-docs/swagger-ui-init.js [32m200[0m 0.767 ms - -[0m
+2021-03-23 21:29:02 info: [0mGET /api-docs/swagger-ui.css [32m200[0m 8.243 ms - -[0m
+2021-03-23 21:29:02 info: [0mGET /api-docs/swagger-ui-standalone-preset.js [32m200[0m 6.907 ms - -[0m
+2021-03-23 21:29:02 info: [0mGET /api-docs/swagger-ui-bundle.js [32m200[0m 7.999 ms - -[0m
+2021-03-23 21:29:02 info: [0mGET /api-docs/favicon-32x32.png [32m200[0m 1.072 ms - 628[0m
+2021-03-23 21:29:17 info: [0mGET /users [32m200[0m 1.139 ms - 460[0m
